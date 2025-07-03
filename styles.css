@@ -76,6 +76,33 @@ h1, h2, h3, h4, h5 {
   line-height: 1.2;
 }
 
+h5 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700; /* bold */
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:400,700&display=swap');
+
+.titulo-servicio {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+.p-custom {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+.p-custom {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400; /* regular */
+}
+
+.p-semibold {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600; /* semibold */
+}
+
 .h1-custom {
   font-family: 'Anybody', cursive;
   font-weight: 700;
